@@ -31,7 +31,7 @@
 
 ---
 
-## 【Proxy-Seller】(https://proxy-seller.com/zh/)
+## [Proxy-Seller](https://proxy-seller.com/zh/)
 
 ### 简介
 
